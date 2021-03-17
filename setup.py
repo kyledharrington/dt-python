@@ -1,4 +1,5 @@
 from setuptools import setup
+import autodynatrace
 
 # Metadata goes in setup.cfg. These are here for GitHub's dependency graph.
 setup(

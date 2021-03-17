@@ -1,5 +1,5 @@
 from flaskr import create_app
-
+import autodynatrace
 
 def test_config():
     """Test create_app without passing test config."""

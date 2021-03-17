@@ -1,7 +1,7 @@
 import pytest
 from flask import g
 from flask import session
-
+import autodynatrace
 from flaskr.db import get_db
 
 

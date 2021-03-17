@@ -1,5 +1,5 @@
 import sqlite3
-
+import autodynatrace
 import click
 from flask import current_app
 from flask import g

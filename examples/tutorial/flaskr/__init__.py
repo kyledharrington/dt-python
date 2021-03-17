@@ -1,5 +1,5 @@
 import os
-
+import autodynatrace
 from flask import Flask
 
 

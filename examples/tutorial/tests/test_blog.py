@@ -1,5 +1,5 @@
 import pytest
-
+import autodynatrace
 from flaskr.db import get_db
 
 
